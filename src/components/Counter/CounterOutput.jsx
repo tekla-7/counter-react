@@ -1,5 +1,6 @@
 import { log } from '../../log.js';
 
+//million-ignore
 export default function CounterOutput({ value }) {
   log('<CounterOutput /> rendered', 2);
 
